@@ -1,6 +1,6 @@
 # 🧠 Praticando Vetores em Java
 
-Este repositório contém **3 exercícios práticos** desenvolvidos em Java, com o objetivo de treinar e reforçar os conceitos de **vetores (arrays)**. Cada exercício aborda uma aplicação diferente envolvendo leitura de dados, manipulação e exibição de resultados.
+Este repositório contém **11 exercícios práticos** desenvolvidos em Java, com o objetivo de treinar e reforçar os conceitos de **vetores (arrays)**. Cada exercício aborda uma aplicação diferente envolvendo leitura de dados, manipulação e exibição de resultados.
 
 ---
 
