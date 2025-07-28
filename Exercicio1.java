@@ -2,10 +2,6 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        //LER UM NUMERO INTEIRO POSITIVO N (MAX = 10)
-        // LER Y NUMEROS INTEIROS
-        // ADICIONAR N E Y A UM VETOR INT
-        //MOSTRAR NA TELA TODOS OS NUMERO NEGATIVOS LIDOS.
 
         Scanner sc = new Scanner(System.in);
 
